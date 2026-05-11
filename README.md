@@ -40,3 +40,7 @@ Estudiante de Ingeniería en Sistemas.
 ---
 
 <p align="center">Gracias por visitar mi perfil.</p>
+
+## Nota de colaboración
+
+Esta sección fue agregada desde una rama para practicar el flujo de Pull Request.
