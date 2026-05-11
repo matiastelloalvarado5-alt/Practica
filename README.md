@@ -1,2 +1,2 @@
 # Práctica de Git
-Autor: Pendiente
+Autor: Equipo de Desarrollo
